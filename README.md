@@ -26,6 +26,8 @@ Contact: selahattinkaantosun@eskisehir.edu.tr
    Assist. Prof. Dr. İsmail San
    
 Contact: isan@eskisehir.edu.tr
+# Video Link
+
 # Platform and Tools
 -Ubuntu 18.04 LTS Operating System
 
