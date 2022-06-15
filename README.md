@@ -24,14 +24,14 @@ Contact: selahattinkaantosun@eskisehir.edu.tr
    
 Contact: isan@eskisehir.edu.tr
 # Platform and Tools
-Ubuntu 18.04 LTS Operating System
+-Ubuntu 18.04 LTS Operating System
 
-Xilinx Vivado 2019.2 Design Suite
+-Xilinx Vivado 2019.2 Design Suite
 
-Xilinx Vitis High-Level Synthesis 2019.2
+-Xilinx Vitis High-Level Synthesis 2019.2
 
-Xilinx Vitis 2019.2
+-Xilinx Vitis 2019.2
 
-Xilinx PetaLinux 2019.2
+-Xilinx PetaLinux 2019.2
 
-SD Card for Booting Ubuntu on ZedBoard
+-SD Card for Booting Ubuntu on ZedBoard
