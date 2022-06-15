@@ -13,11 +13,15 @@ Board used in the project: ZedBoard
   In this project, we aim to accelerate the CRYSTALS-Kyber algorithm, which is currently one of the finalists in the third round of the Post-Quantum Cryptography competition initi-ated by NIST, with an HW/SW codesign methodology and application-specific hardware accelerators by using High-Level Synthesis (HLS). In the study of Dang et al. [1], it was concluded that the hardware architecture of CRYSTAL-Kyber algorithm runs better than other finalist algorithms at higher security levels (e.g., Level 3 and Level 5) in Artix-7 FPGAs and Zynq Ultrascale+ devices. Since the information in security level 3 and 5 categories contain risky social, psyc-hological and financial information that can harm individu-als or groups if disclosed, it is a basic requirement that these data be stored securely. We aim to hardware accelerate of the CRYSTAL-Kyber algorithm using HLS to ensure the security of applications with high security level requirements with low latency and explore the design space faster thanks to higher design productivity of HLS.
 # Participants
   - Bilge Deniz ÖZÇELİK
+  
 Contact: bilgedenizozcelik@eskisehir.edu.tr
+
   - Selahattin Kaan TOSUN
+ 
 Contact: selahattinkaantosun@eskisehir.edu.tr
 # Supervisor
    Assist. Prof. Dr. İsmail San
+   
 Contact: isan@eskisehir.edu.tr
 # Platform and Tools
 Ubuntu 18.04 LTS Operating System
