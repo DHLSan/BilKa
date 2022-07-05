@@ -42,8 +42,11 @@ https://www.youtube.com/watch?v=nrLR7NEsEJs
 -SD Card for Booting Ubuntu on ZedBoard
 
 # Experimental Results
-![image](https://user-images.githubusercontent.com/90928820/177389677-96a6c14c-8e31-4e13-9798-b71533be03bb.png)
+
 ![image](https://user-images.githubusercontent.com/90928820/177389784-44bc3364-b36b-494d-af66-0e3a34aa005c.png)
+Pareto analysis is premised on the idea that 80% of a project's benefit can be achieved by doing 20% of the work—or, conversely, 80% of problems can be traced to 20% of the causes. Pareto analysis is a powerful quality and decision-making tool. In our project using this analysis, we found out which functions should be accelerated. In this graph, the cumulative percentages of the running times of the functions are found. As you can see, the first 6 functions are in this eighty percent.
+![image](https://user-images.githubusercontent.com/90928820/177389677-96a6c14c-8e31-4e13-9798-b71533be03bb.png)
+So in this pie chart, kexuakesharedB, kesuakeinitA, kexuakesharedA, kyber decaps, kyber encaps, kyber keypair functions should be accelerated. The remaining functions do not need to be accelerated because when these 6 functions are accelerated, the system will be sufficiently accelerated.
 
 # Reference of the CRYSTALS-Kyber
 
