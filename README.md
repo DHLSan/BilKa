@@ -43,7 +43,7 @@ https://www.youtube.com/watch?v=nrLR7NEsEJs
 
 # Experimental Results
 ![image](https://user-images.githubusercontent.com/90928820/177389677-96a6c14c-8e31-4e13-9798-b71533be03bb.png)
-
+![image](https://user-images.githubusercontent.com/90928820/177389784-44bc3364-b36b-494d-af66-0e3a34aa005c.png)
 
 # Reference of the CRYSTALS-Kyber
 
