@@ -5,4 +5,4 @@ accelerated thanks to the hardware design of the function with the most used ope
 create the hardware design. Here you can find the C code we wrote to create hardware design in HLS and the custom SoC accelerator module we designed.
 
 ![image](https://user-images.githubusercontent.com/90928820/177389937-902e92fc-3edc-4d1d-a7f0-afd6eacab4bd.png)
-                                   Figure. Hardware Design of Kyber
+              Figure. Hardware Design of Kyber
