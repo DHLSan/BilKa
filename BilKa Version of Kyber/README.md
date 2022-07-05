@@ -1,7 +1,6 @@
 # BilKa Version of Kyber
 
-
-
+We have made changes to make suitable the reference implementation code of the Kyber algorithm, which runs in the pure software, to the system we use. We have removed some functions that are not suitable for ARM processor architecture. We modified some functions of reference implementation code and obtained the BilKa version of Kyber code. Below you can find the steps we followed for the BilKa version.
 
 # Step-by-step Building and Testing Instructions
 
