@@ -40,3 +40,6 @@ https://www.youtube.com/watch?v=nrLR7NEsEJs
 -Xilinx PetaLinux 2019.2
 
 -SD Card for Booting Ubuntu on ZedBoard
+# Reference of the CRYSTALS-Kyber
+
+https://github.com/pq-crystals/kyber
