@@ -27,7 +27,7 @@ Contact: selahattinkaantosun@eskisehir.edu.tr
    
 Contact: isan@eskisehir.edu.tr
 # Video Link
-https://www.youtube.com/watch?v=ujgfLmGZtUk
+https://www.youtube.com/watch?v=nrLR7NEsEJs
 # Platform and Tools
 -Ubuntu 18.04 LTS Operating System
 
